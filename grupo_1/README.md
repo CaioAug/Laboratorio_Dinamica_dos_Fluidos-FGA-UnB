@@ -65,3 +65,4 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Apresentação de gráficos e sua respectiva análise;
 -	Comparação dos resultados com a teoria envolvida;
 -	Conclusões do experimento;
+a
