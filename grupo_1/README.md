@@ -360,6 +360,8 @@ Dados obtidos:
 	
 ![dina](https://user-images.githubusercontent.com/42500468/48241525-7caffd80-e3be-11e8-9723-f35cffd5d940.png)
 
+Além disso, com a ajuda de um paquímetro foi possível obter o comprimento da secção analisada  (l = 14,5 cm) e o diâmetro da tubulação (d = 2,53 cm). 
+
 
 Referências:
 
