@@ -304,23 +304,20 @@ Após a obtenção dos dados, uma planilha no excel for criada para a conversão
 
 
 ![image](https://user-images.githubusercontent.com/42500468/48240318-90a53080-e3b9-11e8-91bd-96746415c0da.png)
-
 Figura 1 - Bancada Hidráulica Lab. Termofluidos
 
 
 ![image](https://user-images.githubusercontent.com/42500468/48240338-9dc21f80-e3b9-11e8-9b90-6dc8eb6da2dc.png)
-
 Figura 2 - Medidor De Vazão
 
 
 ![image](https://user-images.githubusercontent.com/42500468/48240351-a61a5a80-e3b9-11e8-9b0e-9703684eb393.png)
-
 Figura 3 - Manômetro Comercial IMB (m.c.a.)
 
 
 ![image](https://user-images.githubusercontent.com/42500468/48240364-b03c5900-e3b9-11e8-8ea9-3a47733d2675.png)
-
 Figura 4 - Válvula estranguladora
+
 
 2.1 - Complicações enfrentadas pelo grupo:
 	Ao contrário do que foi planejado inicialmente nas etapas anteriores, o grupo encontrou dificuldade na medição de pressão de uma tubulação de maior comprimento, uma vez que o manômetro utilizado não foi capaz de medir uma diferença de pressão tão grande. A solução encontrada pelo grupo foi a análise individual da válvula estranguladora.
@@ -356,7 +353,7 @@ Desligar a bomba hidráulica
 Dados obtidos:
 	Os dados foram obtidos por meio do método descrito anteriormente. Para a conversão das unidades e facilidade nos cálculos, os dados medidos foram passados para uma planilha no excel, uma vez que 1 m.c.a. = 9806,65 Pa.
 	
-	![tabela dinaflu](https://user-images.githubusercontent.com/42500468/48240461-fbef0280-e3b9-11e8-918a-aa5bc4edfcdb.png)
+![dina](https://user-images.githubusercontent.com/42500468/48241525-7caffd80-e3be-11e8-9723-f35cffd5d940.png)
 
 
 Referências:
