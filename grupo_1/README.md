@@ -303,19 +303,24 @@ Para cada vazão, o grupo mediu a pressão antes e depois da válvula estrangula
 Após a obtenção dos dados, uma planilha no excel for criada para a conversão de unidades e maior organização dos dados.
 
 
+
 ![image](https://user-images.githubusercontent.com/42500468/48240318-90a53080-e3b9-11e8-91bd-96746415c0da.png)
+
 Figura 1 - Bancada Hidráulica Lab. Termofluidos
 
 
 ![image](https://user-images.githubusercontent.com/42500468/48240338-9dc21f80-e3b9-11e8-9b90-6dc8eb6da2dc.png)
+
 Figura 2 - Medidor De Vazão
 
 
 ![image](https://user-images.githubusercontent.com/42500468/48240351-a61a5a80-e3b9-11e8-9b0e-9703684eb393.png)
+
 Figura 3 - Manômetro Comercial IMB (m.c.a.)
 
 
 ![image](https://user-images.githubusercontent.com/42500468/48240364-b03c5900-e3b9-11e8-8ea9-3a47733d2675.png)
+
 Figura 4 - Válvula estranguladora
 
 
