@@ -278,6 +278,76 @@ Resultados esperados:
 
 É esperado, do experimento e dos cálculos a serem realizados, analisar a perda de carga nas duas tubulações, plotando os gráficos da perda de carga distribuída e da perda de carga singular em função da vazão previamente conhecida (hf x Q) e (hs x Q).
 
+----------------------------------------------------
+
+Grupo 1 - Etapa 3 - Execução
+
+Integrantes do grupo:
+
+Caio Augusto Chaves - 160114985
+Erika Kamada Tomita - 160119120
+Felipe Caleffi Laux - 160119545
+
+1 - Divisão das Tarefas:
+	As tarefas foram realizados conforme a divisão de tarefas anteriormente previsto nas etapas anteriores. Com isso, todos os membros acabaram por contribuir na realização do experimento.
+
+
+2 - Procedimentos Realizados: 
+
+Para  a realização do experimento, a bancada “HD98B Laboratório de Hidráulica” (figura 1), que se encontra no laboratório de termofluidos, foi utilizada. Nela se encontra um medidor de vazão (figura 2), tubulações, válvulas, um reservatório de água e uma bomba hidráulica.
+Com a ajuda da "torneira" da bancada, o grupo foi capaz de variar a vazão de água da tubulação e consequentemente obter diferentes valores de pressão para medição.
+A medição das diferentes pressões se deu por meio da utilização de um manômetro comercial (figura 3) que se encontrava no laboratório (é importante citar aqui que o esse manômetro mede em metros de coluna d'água (m.c.a.), sendo então necessário a conversão de unidades para a realização dos cálculos).
+Para cada vazão, o grupo mediu a pressão antes e depois da válvula estranguladora (figura 4), possibilitando então o estudo da perda de carga gerada por essa. As medições foram realizadas com a válvula totalmente aberta, bem como parcialmente fechada (metade de sua capacidade de vazão).
+Após a obtenção dos dados, uma planilha no excel for criada para a conversão de unidades e maior organização dos dados.
+
+![image](https://user-images.githubusercontent.com/42500468/48240318-90a53080-e3b9-11e8-91bd-96746415c0da.png)
+FIgura 1 - Bancada Hidráulica Lab. Termofluidos
+
+![image](https://user-images.githubusercontent.com/42500468/48240338-9dc21f80-e3b9-11e8-9b90-6dc8eb6da2dc.png)
+FIgura 2 - Medidor De Vazão
+
+![image](https://user-images.githubusercontent.com/42500468/48240351-a61a5a80-e3b9-11e8-9b0e-9703684eb393.png)
+Figura 3 - Manômetro Comercial IMB (m.c.a.)
+
+![image](https://user-images.githubusercontent.com/42500468/48240364-b03c5900-e3b9-11e8-8ea9-3a47733d2675.png)
+FIgura 4 - Válvula estranguladora
+
+2.1 - Complicações enfrentadas pelo grupo:
+	Ao contrário do que foi planejado inicialmente nas etapas anteriores, o grupo encontrou dificuldade na medição de pressão de uma tubulação de maior comprimento, uma vez que o manômetro utilizado não foi capaz de medir uma diferença de pressão tão grande. A solução encontrada pelo grupo foi a análise individual da válvula estranguladora.
+	Pelo mesmo motivo, o grupo acabou não analisando a tubulação totalmente lisa, porém foi possível analisar a válvula completamente aberta para fins de comparação com a parcialmente fechada.
+	Além disso, o grupo optou pela utilização do manômetro comercial ao invés do manômetro de coluna d'água pois este estava pouco calibrado e com bolhas de ar em seu interior, o que iria afetar as medições realizadas pelo grupo.
+
+
+3 - Realização do Experimento: (Responsáveis: Caio Augusto, Erika Kamada e Felipe Caleffi)
+
+conectar manômetro comercial na entrada da válvula
+
+ligar a bomba hidráulica
+
+variar a vazão de 1600 Lph a 2500 Lph em intervalos de 100 LPh 
+
+medir a pressão para cada intervalo (obter P1's)
+
+desligar a bomba hidráulica 
+
+conectar manômetro comercial na saída da válvula 
+
+ligar a bomba hidráulica 
+
+variar a vazão de 1600 Lph a 2500 Lph em intervalos de 100 LPh
+
+medir a pressão para cada intervalo (obter P2's)
+
+desligar a bomba hidráulica
+
+
+	
+
+Dados obtidos:
+	Os dados foram obtidos por meio do método descrito anteriormente. Para a conversão das unidades e facilidade nos cálculos, os dados medidos foram passados para uma planilha no excel, uma vez que 1 m.c.a. = 9806,65 Pa.
+	![tabela dinaflu](https://user-images.githubusercontent.com/42500468/48240461-fbef0280-e3b9-11e8-918a-aa5bc4edfcdb.png)
+
+
 Referências:
 
 MUNSON, Bruce R. et al. Fundamentos da Mecânica dos Fluidos. vol II, versão SI, tradução da 2. edição americana. São Paulo, Editora Edgard Blücher Ltda., 1997. p. 64 a 67. Acesso em: 25 ago. 2018
@@ -285,4 +355,7 @@ MUNSON, Bruce R. et al. Fundamentos da Mecânica dos Fluidos. vol II, versão SI
 BELLO, Sergio; LOBO, Paulo. Análise Gráfica de Dados Experimentais. Material didático do Curso de Graduação em Engenharia Elétrica, UNIFACS. Salvador, 1999. Mimeo.  Acesso em: 25 ago. 2018
 
 BELLO, Sergio. Perda de Carga em Fluidos Incompressíveis: Roteiro de Prática. Material didático do Curso de Graduação em Engenharia Elétrica, UNIFACS. Salvador, 2001. Mimeo. Acesso em: 25 ago. 2018
+
+
+
 
