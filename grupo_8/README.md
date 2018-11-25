@@ -159,4 +159,201 @@ Ao final desse experimento desejamos obter medições de escoamentos turbulentos
 ÇENGEL, Yunus A; CIMBALA, John M. Mecânica dos fluidos: fundamentos e aplicações . São Paulo: McGraw-Hill, 2007.
 NÚMERO de Reynolds. Disponível em: <http://lamon.com.br/ckfinder/userfiles/files/Numero_Reynolds.pdf>. Acesso em: 24 ago. 2018.
 
+ **RELATÓRIO 3  - GRUPO 8**
+ ### Identificação do grupo ###
+Beatriz Carolina - 16/0002958
+Gustavo Saraiva - 16/0050537
+Renato Nascimento - 16/0143551
 
+### Cronograma de atividades ###
+|      Data     |                                                        Atividade                                                                                                            |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------|
+|  31/08     |Primeira análise e verificação dos materiais necessários para a realização do experimento |
+|   14/09      |Execução do experimento I (2h)                                          |
+|   21/09      |Execução do experimento II* (2h)                                           |
+| A partir de 21/09 | Confecção do relatório |
+|11/11 | Entrega final |
+
+
+
+*Obs: A execução do experimento II só seria realizada caso houvesse necessidade. Isso de fato aconteceu já que na primeira realização do experimento tivemos problemas com o corante e com a obtenção dos dados experimentais.
+Para essa terceira fase do experimento tivemos algumas mudanças de datas devido algumas eventualidades como a necessidade de se comprar novos materiais e o próprio calendário dos integrantes. De modo que o novo cronograma se tornou:
+
+
+|      Data     |            Atividade                         |
+|-------------------------|------------------------------------------------------------------------------|
+|  31/08     |Primeira análise e verificação dos materiais necessários para a realização do experimento |
+|   21/09      |Execução do experimento I (2h)                                          |
+|   09/11      |Execução do experimento II* (2h)                                           |
+| 09/11 e 10/11 | Confecção do relatório |
+|11/11 | Entrega final |
+
+
+### Divisão de atividades ###
+A divisão inicial de atividades permaneceu a mesma do planejamento inicial como mostra a seguinte tabela:
+
+|      Nome do membro     |                                                        Atividade          |
+|-------------------------|------------------------------------------------------------|
+|   Renato Nascimento     |Análise experimental dos dados obtidos e responsável, preliminarmente, por atestar a necessidade de novos experimentos|
+|   Beatriz Carolina      |Ánalise teórica dos dados, acordado o obtido ao registrado na bibliografia                                            |
+|   Gustavo Saraiva       |Ánalise teórica dos dados, acordado o obtido ao registrado na bibliografia                                            |
+
+### Materiais utilizados no experimento
+###
+
+![Figura 1 - Materiais utilizados](https://github.com/bia298/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/6081bc39b8eac383e84023072ffffb4d1be2e337/IMG_7771.JPG) 
+
+Foram utilizados os seguintes materiais para a execução do experimento:
+
+*	Torneira
+
+*	Mangueira de 1/2"
+
+*	Mangueira de 3/8"
+
+*	Fita veda rosca
+
+*	Tinta guache diluída em água
+
+*	Cronômetro
+
+*	Becker de 1l
+
+*	Seringa
+
+
+### Descrição do experimento ###
+O experimento foi executado da seguinte maneira:
+
+**Procedimento 1:** uma extremidade da mangueira de ½” foi conectada na torneira, utilizando fita veda rosca para diminuir possíveis vazamentos, já a outra extremidade da mangueira foi colocada dentro do becker. Com essa configuração a torneira foi aberta 1 volta e  para um tempo de 3s foi medido o volume de água que escoou.As medições foram realizadas 3 vezes.
+
+**Procedimento 2:** foi trocada a mangueira de ½” pela de ⅜” e a mesma configuração foi mantida. Esse procedimento foi realizado da mesma maneira que o anterior, sendo realizadas 3 medições.
+
+**Procedimento 3:** O procedimento 3 foi realizado para que fosse possível visualizar as turbulências. Primeiro a mangueira de ½’’ foi conectada a torneira com a fita veda rosca, na outra extremidade a mangueira de ⅜” foi conectada. A torneira foi aberta novamente 1 volta e no aproximadamente 3 cm antes do ponto onde as mangueiras estavam conectadas foi inserida tinta guache diluída com o auxílio de uma seringa para poder observar o escoamento e as turbulências envolvidas. 
+
+![Figura 2 - Vórtices](https://github.com/bia298/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/6081bc39b8eac383e84023072ffffb4d1be2e337/IMG_7782.PNG) 
+
+
+### Resultados Obtidos ###
+De modo a obter escoamento variáveis utilizamos duas medidas de tubos diferentes um de ½’’ e ⅜’’. Para a mangueira de ½’’ obtivemos os seguintes resultados:
+
+
+|    Medida 1 (mL) | Medida 2 (mL) | Medida 3 (mL) | Desvio padrão | Erro Padrão |
+|------------------------|---------------------------|-----------------------|-----------------------|---------------------------|
+| 800 | 775 | 790 | 788,33 | 10,27 |7,26|
+
+Para a mangueira de ⅜” 
+
+|    Medida 1 (mL) | Medida 2 (mL) | Medida 3 (mL) | Desvio padrão | Erro Padrão |
+|------------------------|---------------------------|-----------------------|-----------------------|---------------------------|
+| 850 | 865 | 840 | 788,33 | 10,27 |7,26|
+
+Com esses dados foi possível calcular os seguintes parâmetros:
+
+A vazão para cada mangueira utilizando a relação que a vazão é o volume dividido pelo tempo:
+
+|                    |              Vazão Volumétrica (m^3/s)  |
+|------------------------|-------------------------|
+| Mangueira ½” |      0,02627         |
+ |      Mangueira ⅜”    |       0,2838         |
+ 
+A partir da vazão foi possível obter a velocidade do escoamento, dividindo a vazão pela área da secção transversal de cada mangueira:
+
+
+|                    |              Velocidade (m^2/s) |
+|------------------------|-------------------------|
+| Mangueira ½” |      207,37         |
+ |      Mangueira ⅜”    |      398,28     |
+ 
+ Com esses valores e considenrando a massa específica como 1000kg/m^3 e a viscosidade absoluta como 1.002*10^3 Pa*s  (HOUGHTALEN; AKAN; HWANG, 2012) temos os seguintes valores para os números de Reynolds:
+ 
+ 
+ |                    |   Número de Reynolds        |
+ |------------------------|-------------------------|
+ | Mangueira ½” |      2.625 x 10^6        |
+ | Mangueira  ⅜” |  3.78 x 10^6     |  
+ 
+ Com esses valores poderemos analisar melhor o escoamento e o seu nível de turbulência.
+
+ 
+
+### Bibliografia: ###
+
+ÇENGEL, Yunus A; CIMBALA, John M. Mecânica dos fluidos: fundamentos e aplicações . São Paulo: McGraw-Hill, 2007.
+
+NÚMERO de Reynolds. Disponível em: <http://lamon.com.br/ckfinder/userfiles/files/Numero_Reynolds.pdf>. Acesso em: 24 ago. 2018.
+
+HOUGHTALEN, Robert J.; AKAN, A. Osman; HWANG, ‎ Ned H.c.. Engenharia hidráulica (. 4. ed. São Paulo: Pearson, 2012.
+
+
+***RELATÓRIO 4  - GRUPO 8***
+
+ ### Identificação do grupo ###
+- Beatriz Carolina - 16/0002958
+- Gustavo Saraiva - 16/0050537
+- Renato Nascimento - 16/0143551
+
+
+### Apresentação dos dados medidos no experimento com seu respectivo erro experimental ###
+ 
+ Como apresentado no ultimo relatório obtivemos os seguintes dados experimentais:
+ Para a mangueira de ½’’:
+
+
+|    Medida 1 (mL) | Medida 2 (mL) | Medida 3 (mL) | Desvio padrão | Erro Padrão |
+|------------------------|---------------------------|-----------------------|-----------------------|---------------------------|
+| 800 | 775 | 790 | 788,33 | 10,27 |7,26|
+
+Para a mangueira de ⅜” 
+
+|    Medida 1 (mL) | Medida 2 (mL) | Medida 3 (mL) | Desvio padrão | Erro Padrão |
+|------------------------|---------------------------|-----------------------|-----------------------|---------------------------|
+| 850 | 865 | 840 | 788,33 | 10,27 |7,26|
+
+Com esses dados foi possível calcular os seguintes parâmetros:
+
+A vazão para cada mangueira utilizando a relação que a vazão é o volume dividido pelo tempo:
+
+|                    |              Vazão Volumétrica (m^3/s)  |
+|------------------------|-------------------------|
+| Mangueira ½” |      0,02627         |
+ |      Mangueira ⅜”    |       0,2838         |
+ 
+A partir da vazão foi possível obter a velocidade do escoamento, dividindo a vazão pela área da secção transversal de cada mangueira:
+
+
+|                    |              Velocidade (m^2/s) |
+|------------------------|-------------------------|
+| Mangueira ½” |      207,37         |
+ |      Mangueira ⅜”    |      398,28     |
+ 
+ Com esses valores e considenrando a massa específica como 1000kg/m^3 e a viscosidade absoluta como 1.002*10^3 Pa*s  (HOUGHTALEN; AKAN; HWANG, 2012) temos os seguintes valores para os números de Reynolds:
+ 
+ 
+ |                    |   Número de Reynolds        |
+ |------------------------|-------------------------|
+ | Mangueira ½” |      2.625 x 10^6        |
+ | Mangueira  ⅜” |  3.78 x 10^6     |  
+ 
+ ### Apresentação de gráficos e sua respectiva análise ###
+ 
+A partir dos dados calculados foi possível obter o seguinte gráfico:
+<p align="center">
+  <img width="560" height="420" src="https://github.com/bia298/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_8/graficodinaflu.jpg">
+</p>
+
+
+ A partir da fórmula do número de Reynolds é possível concluir que para o experimento que realizamos a única variável era a velocidade. Com o gráfico é possível notar que essa relação apresenta um caráter linear e que os dois parâmetros são diretamente proporcionais o que bate com os equacionamentos.
+### Comparação dos resultados com a teoria envolvida ###
+Na teoria temos que o número de Reynolds acima de 4000 (ÇENGEL et al, 2017) indica um escoamento turbulento. Os valores obtidos experimentalmente são significativamente mais altos que os teóricos, alguns fatores podem ter acarretado nesse fato como o escoamento que saiu da torneira não ser perfeitamente linear e provavelmente estar em uma zona de transição. Outro indicativo a favor dessa hipótese é que a variação do número de reynolds entre as duas mangueiras não ultrapassou a ordem de 10 e portando as duas estavam em condições iniciais muito parecidas.
+Com tudo isso sendo levado em consideração é notável como a diminuição da área da secção transversal do escoamento em poucas polegadas foi o suficiente para causar essa mudança no número de reynolds e que tivemos um escoamento já turbulento aumentando a sua turbulência.
+### Conclusões do experimento ###
+Esse experimento permitiu a visualização de como a mudança de pequenos parâmetros em um escoamento, como nesse caso foi a área, podem resultar em mudanças comportamentais no escoamento. Além disso, a modificação da área alterou exclusivamente a velocidade do escoamento
+
+### Bibliografia: ###
+
+ÇENGEL, Yunus A; CIMBALA, John M. Mecânica dos fluidos: fundamentos e aplicações . São Paulo: McGraw-Hill, 2007.
+
+NÚMERO de Reynolds. Disponível em: <http://lamon.com.br/ckfinder/userfiles/files/Numero_Reynolds.pdf>. Acesso em: 24 ago. 2018.
+
+HOUGHTALEN, Robert J.; AKAN, A. Osman; HWANG, ‎ Ned H.c.. Engenharia hidráulica (. 4. ed. São Paulo: Pearson, 2012.

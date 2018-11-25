@@ -132,3 +132,114 @@ Além disso será calculado a rugosidade do tubo, as perdas de cargas distribuí
 - Resultados esperados:
 
 O experimento deve demonstrar a influência da vazão, do diâmetro e da rugosidade do tubo sobre a perda de carga. O resultado esperado baseado na teoria é que quanto maior o diâmetro, menor a perda da carga, porém quando maior a rugosidade do tubo, maior será a perda de carga. Espera-se, também, que demonstrar a diferença de valores de perda de carga distribuída e localizada.
+
+#### Grupo 11 - Etapa 3 ####
+
+- Integrantes:
+
+Abia Matos de Oliveira - 15/0004206,  Gabriel Batista dos Santos Sousa - 14/0020381, Mairon Cruvinel - 09/0123999.
+
+- Divisão de tarefas: 
+
+Com a mudança do experimento, os dados a serem levantados foram alterados. As medidas foram feitas em conjunto, com a presença de todos os integrantes do grupo.
+
+- Procedimentos:
+
+  -> Experimento montado:
+O experimento montado pode ser visto nas imagens abaixo, figuras 1 e 2:
+
+![experimento pt 1 g11](https://user-images.githubusercontent.com/42481602/48318759-15779080-e5ec-11e8-9d0c-19079a0461d7.jpg)
+Figura 1: Bomba, equipamento de acionamento, manômetro e tubulação do experimento.
+
+![experimento pt 2 g11](https://user-images.githubusercontent.com/42481602/48318773-32ac5f00-e5ec-11e8-81f8-f0483e406664.jpg)
+Figura 2: Vertedouro.
+
+  -> Procedimentos executados:
+  
+O experimento descrito na etapa 2 não foi viável, uma vez que o equipamento necessário para tal experimento era de outro professor e o pedido de permissão para utilização do equipamento resultaria no atraso da realização do experimento. Por isso foi decido a mudança para um experimento onde o equipamento encontrava-se disponível. O equipamento utilizado permitiu a observação da perda de carga em uma tubulação vertical, e o fluido utilizado nessa tubulação era água. Esses dois aspectos foram as divergências do experimento anterior que seria feito em uma tubulação horizontal e o fluido utilizado seria ar. 
+
+Os novos equipamentos utilizados para a realização do experimento foram:
+  Inversor de frequência WEG CfW09;
+  Motor WEG, trifásico 1750rpm,25cv,60hz;
+  Bomba KSB ETAN100-250, Q=184,4m3/h,H=21,3mca;
+  Reservatório de água 1000l;
+  Manômetro;
+  Vertedouro triangular.
+
+Inicialmente foi medida a temperaruta utilizando um termômetro digital, em seguida com o auxílio de uma trena mediu-se o diâmetro do tubo e a distância entre a bomba e o manômetro. A partir do código encontrado na tubulação foi possível encontrar a espessura dele na tabela de descrição do fabricante. Em sequência foi medida a altura de água inicial no vertedouro utilizando uma trena instalada no reservatório. Foi então ligado o sistema, procedimento feito pelo professor por questões de segurança do laboratório. Com a bomba ligada aferiu-se a pressão manométrica visualmente, na mesma altura do manômetro para evitar erros de medida. Por fim mediu-se altura final de água no vertedouro(com a bomba ligada), também com a trena do reservatório.
+
+   -> Dados medidos:
+  
+Com a execução do experimento, os dados obtidos foram:
+
+  - Temperatura: 26,5ºC;
+  - Distância entre a bomba e o manômetro: 1,61m;
+  - Diâmetro da tubulação: 110,16mm;
+  - Espessura da tubulação: 1mm;
+  - Pressão manométrica: 6,2-8,2 mca;
+  - Altura de água inicial:13cm;
+  - Altura de final final: 33cm.
+
+
+#### Grupo 11 - Etapa 4 ####
+
+- Integrantes: 
+
+ Abia Matos de Oliveira - 15/0004206,  Gabriel Batista dos Santos Sousa - 14/0020381, Mairon Cruvinel - 09/0123999.
+ 
+-	Dados medidos e respectivos erros experimentais:
+
+Dado | Valor
+:-----: | :------:
+Temperatura | 26,5 +- 1 ºC
+Distância entre a bomba e o manômetro | 1,61 +- 0,005 m
+Diâmetro da tubulação | 110,106 +- 0,005 mm
+Espessura da tubulação | 1mm
+Pressão manométrica | 6,2-8,2 +- 0,05 mca
+Altura de água inicial | 13 +- 0,005 cm
+Altura de final final | 33 +- 0,005 cm
+
+- Análise dos dados:
+
+Para o cálculo da perda de carga devemos considerar apenas a perda de carga distribuída, visto que o sistema não tem nenhuma variação brusca da geometria do escoamento, como mudanças de direção ou da seção do fluxo. Existem inúmeras fórmulas para o cálculo da perda de carga em tubulações, dentre elas destaca-se a equação de Darcy-Weisbach, denominada de Equação Universal. A queda de pressão em um duto de seção circular, causada por efeitos de viscosidade pode ser calculada pela equação de Darcy-Weisbach, com o uso do diâmetro hidráulico como dimensão característica:
+![codecogseqn 4](https://user-images.githubusercontent.com/42481602/48680576-9225e400-eb83-11e8-8716-4521e14a0011.gif)
+
+Onde: f é o coeficiente de atrito(adimensional), L o comprimento da tubulação (m), D o diâmetro da tubulação (m), g aceleração da gravidade (m/s2) e V velocidade do líquido no interior do tubo(m/s).
+
+Sabe-se que para medição de vazão, para vertedouros com ângulo de 90º é dada pela equação e que h é a diferença de água entre a saída do vertedouro e a superfície de água:
+![codecogseqn 1](https://user-images.githubusercontent.com/42481602/48680573-918d4d80-eb83-11e8-94e9-9d7a1c995093.gif)
+
+Sabe-se também que a vazão está relacionada com a velocidade pela equação abaixo, que será necessária para saber o valor da velocidade. 
+![codecogseqn 2](https://user-images.githubusercontent.com/42481602/48680574-918d4d80-eb83-11e8-9d29-00be1fdbcfe6.gif)
+
+Temos que h= 0,2 m, logo:
+![codecogseqn 3](https://user-images.githubusercontent.com/42481602/48680575-918d4d80-eb83-11e8-96df-ad0de47849c6.gif)
+
+Sabe-se que o raio da tubulação (r) é igual
+![codecogseqn 6](https://user-images.githubusercontent.com/42481602/48680577-9225e400-eb83-11e8-8edc-41fa1dcaa28e.gif),
+logo
+![codecogseqn 7](https://user-images.githubusercontent.com/42481602/48680578-9225e400-eb83-11e8-9862-c2c7bcc1a4b1.gif)
+
+Com isso, temos que a velocidade será igual:
+![codecogseqn 8](https://user-images.githubusercontent.com/42481602/48680579-9225e400-eb83-11e8-91a7-7edea6ba262b.gif)
+
+Descoberta a velocidade é possível calcular Re para o escoamento no Tubo a partir de:
+![codecogseqn 9](https://user-images.githubusercontent.com/42481602/48680580-92be7a80-eb83-11e8-8d8f-18d4cd2ac2e7.gif)
+
+onde ρ = massa específica para a água de 1000, µ = viscosidade dinâmica da água de  1,0030 × 10-3 Ns/m², v = velocidade do escoamento  de 2.60677105112 m/s, D = diâmetro da tubulação 0.1106m.
+![codecogseqn 10](https://user-images.githubusercontent.com/42481602/48681683-0a43d800-eb8b-11e8-9912-571b27297dec.gif)
+
+Para o cálculo do coeficiente de atrito Determina-se graficamente pelo diagrama de Moody em função de Re e ε/D, onde ε é a rugosidade do material da tubulação, ou com equações que dependem do regime de escoamento. Para PVC a rugosidade relativa tabelada corresponde a 0.015. Podemos utilizar por exemplo a seguinte expressão: 
+
+Para tubo Plastico PVC segundo ABNT ε=0.06mm
+![captura de tela 115](https://user-images.githubusercontent.com/42481602/48681978-1e88d480-eb8d-11e8-8123-8de7fada35ba.png)
+f= 0,006 . 2,8.10^5
+f=0,032
+
+Substituindo os valores encontrados:
+![codecogseqn 16](https://user-images.githubusercontent.com/42481602/48682166-f6e63c00-eb8d-11e8-969a-472e509ddea4.gif)
+Tem-se então, uma perda de carga de 0,1610m no sistema.
+
+- Conclusão:
+
+O experimento permitiu compreender melhor a perda de carga e como ela ocorre em tubulações. Pode-se perceber, também que em diferentes tipos de tubulações e diferentes tipos de fluidos resultariam em perdas de carga diferente, devido as diferentes características de cada sistema. Vale ressaltar que os resultados obtidos estão dentro de um escopo restrito a apenas uma variação de pressão, mas como forma de compreender o fenômeno no contexto de um laboratório de faculdade continua válido e proveitoso.
